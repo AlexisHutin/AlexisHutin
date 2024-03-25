@@ -28,8 +28,3 @@ I have a deep-seated passion for new technologies and love to dive into experime
 - When I'm not coding, I dive into exciting personal projects in my homelab. That's where I can truly unleash my creativity and explore new ideas without limits.
 
 - I love discussing tech, so feel free to reach out if you want to exchange ideas or just chat about your latest crazy project!
-
-## Contact
-- **Location**: Rennes (full remote)
-- **Email**: alexis.hutin@proton.me
-- **LinkedIn**: https://www.linkedin.com/in/alexis-hutin/
