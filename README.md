@@ -6,7 +6,7 @@ I'm a developer based in Rennes, passionate about crafting innovative solutions 
 When I'm not coding, you'll probably find me managing my homelab server, where I host a variety of services ranging from self-hosted applications to experimental projects. 
 I have a deep-seated passion for new technologies and love to dive into experimentation, pushing the boundaries of what's possible and learning along the way.
 
-<!-- For more details on my homelab setup and projects, check out [my homelab repository](link_to_homelab_repo). -->
+For more details on my homelab setup and projects, check out [my homelab repository 🧪](https://github.com/AlexisHutin/home_lab/tree/main).
 
 ## Exciting Experiences
 
