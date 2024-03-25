@@ -28,3 +28,11 @@ I have a deep-seated passion for new technologies and love to dive into experime
 - When I'm not coding, I dive into exciting personal projects in my homelab. That's where I can truly unleash my creativity and explore new ideas without limits.
 
 - I love discussing tech, so feel free to reach out if you want to exchange ideas or just chat about your latest crazy project!
+
+## Current Experiments
+
+- Right now, I'm diving deep into the world of Artificial Intelligence, playing around with self-hosted models using Ollama. 
+
+- On top of that, I'm tinkering away on building a custom home automation assistant integrated into my Home Assistant setup. It's a super fun project that lets me blend tech with everyday life in creative ways.
+
+- And hey, I'm also geeking out over monitoring setups with Grafana, Prometheus, InfluxDB, and Telegraf. 
