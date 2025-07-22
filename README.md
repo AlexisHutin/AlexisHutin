@@ -2,11 +2,11 @@
 
 ## About Me
 
-I'm a developer based in Rennes, passionate about crafting innovative solutions and exploring emerging technologies. 
-When I'm not coding, you'll probably find me managing my homelab server, where I host a variety of services ranging from self-hosted applications to experimental projects. 
-I have a deep-seated passion for new technologies and love to dive into experimentation, pushing the boundaries of what's possible and learning along the way.
+I’m a Rennes‑based developer obsessed with crafting innovative solutions and exploring emerging tech.
+When I’m not coding, I’m deep in my homelab—self‑hosting services, experimenting, automating, and learning by doing.
+I love pushing boundaries, sharing discoveries, and growing through every challenge.
 
-For more details on my homelab setup and projects, check out [my homelab repository 🧪](https://github.com/AlexisHutin/home_lab/tree/main).
+🔧 Peek into my homelab and experiments in [my homelab repository 🧪](https://github.com/AlexisHutin/home_lab/tree/main).
 
 ## Exciting Experiences
 
@@ -23,16 +23,10 @@ For more details on my homelab setup and projects, check out [my homelab reposit
 *September 2020 - August 2021*
 - My first steps into the professional world, where I learned a ton while working on various web projects. 🚀
 
-## Explore My Universe
+## Projects & Experiments
 
-- When I'm not coding, I dive into exciting personal projects in my homelab. That's where I can truly unleash my creativity and explore new ideas without limits.
+- [mclog2event](https://github.com/AlexisHutin/mclog2event) – Real-time Minecraft log watcher: regex-based event parsing, webhook notifications, and built-in Prometheus metrics (logs parsed, events matched). Easily run with Go or Docker.
 
-- I love discussing tech, so feel free to reach out if you want to exchange ideas or just chat about your latest crazy project!
+- [DeezBytes](https://github.com/AlexisHutin/DeezBytes) – Lightweight Prometheus exporter for monitoring directory sizes. Configure via YAML, get live directory_size_bytes metrics, and deploy with Go or Docker.
 
-## Current Experiments
-
-- Right now, I'm diving deep into the world of Artificial Intelligence, playing around with self-hosted models using Ollama. 
-
-- On top of that, I'm tinkering away on building a custom home automation assistant integrated into my Home Assistant setup. It's a super fun project that lets me blend tech with everyday life in creative ways.
-
-- And hey, I'm also geeking out over monitoring setups with Grafana, Prometheus, InfluxDB, and Telegraf. 
+- Currently exploring self-hosted AI with Ollama, building a custom assistant for Home Assistant, and fine-tuning observability stacks using Grafana, Prometheus...
